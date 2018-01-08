@@ -12,6 +12,10 @@
 
 [DAPPS FOR BEGINNERS Ethereum contract tutorials](https://dappsforbeginners.wordpress.com/tutorials/introduction-to-development-on-ethereum/)
 
+[Getting start with Ethereum - including couple links to developer tools (Truffle) etc](https://medium.com/@mattcondon/getting-up-to-speed-on-ethereum-63ed28821bbe)
+
+[Zeppelin smart contract introduction and development tutorial using Truffle](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+
 ## AltCoins and ICO Research and White Papers
 [Smith and Crown ICOS, TOKEN SALES, CROWDSALES](https://www.smithandcrown.com/icos/)
 [2018-2019 themes](https://medium.com/@twobitidiot/95-crypto-theses-for-2018-ca7b74f8abcf)
@@ -20,10 +24,10 @@
 [NEO summaries](https://www.reddit.com/r/nem/comments/77vvqg/an_indepth_guide_to_nem/?st=jby5nj6o&sh=109c8c76)
 
 ## Secure, private, untraceable currencies
-### MONERO
+## MONERO
 [A beginner’s guide to Monero](https://medium.com/@linda.xie/a-beginners-guide-to-monero-7a5df2c50ed9)
 
-### ZCASH
+## ZCASH
 [Linda Xie Beginner's guide to ZCash](https://medium.com/@linda.xie/a-beginners-guide-to-zcash-3b37190affc)
 
 ## TEZOS
@@ -33,7 +37,7 @@
 [A beginner’s guide to IOTA](https://medium.com/@linda.xie/a-beginners-guide-to-iota-a84424ff5536)
 
 ## Decentralized 
-### Exchange 
+## Exchange 
 [0X project](https://blog.0xproject.com/a-beginners-guide-to-0x-81d30298a5e0)
 
 
