@@ -16,12 +16,12 @@
 
 [Zeppelin smart contract introduction and development tutorial using Truffle](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 
+[Zeppeline github smart contract development patterns and tool - integrate with Truffle](https://github.com/OpenZeppelin/zeppelin-solidity)
+
 ## AltCoins and ICO Research and White Papers
 [Smith and Crown ICOS, TOKEN SALES, CROWDSALES](https://www.smithandcrown.com/icos/)
 [2018-2019 themes](https://medium.com/@twobitidiot/95-crypto-theses-for-2018-ca7b74f8abcf)
 
-NEO
-[NEO summaries](https://www.reddit.com/r/nem/comments/77vvqg/an_indepth_guide_to_nem/?st=jby5nj6o&sh=109c8c76)
 
 ## Secure, private, untraceable currencies
 MONERO
@@ -35,6 +35,9 @@ TEZOS
 
 IOTA
 [A beginner’s guide to IOTA](https://medium.com/@linda.xie/a-beginners-guide-to-iota-a84424ff5536)
+
+NEO
+[NEO summaries](https://www.reddit.com/r/nem/comments/77vvqg/an_indepth_guide_to_nem/?st=jby5nj6o&sh=109c8c76)
 
 ## Decentralized 
 Exchange 
