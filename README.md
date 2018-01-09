@@ -22,6 +22,7 @@
 [Smith and Crown ICOS, TOKEN SALES, CROWDSALES](https://www.smithandcrown.com/icos/)
 [2018-2019 themes](https://medium.com/@twobitidiot/95-crypto-theses-for-2018-ca7b74f8abcf)
 
+[Cryto ecosystem](https://news.blackmooncrypto.com/the-crypto-ecosystem-v2-aea76bde5457)
 
 ## Secure, private, untraceable currencies
 MONERO
