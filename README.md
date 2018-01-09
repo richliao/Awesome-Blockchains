@@ -18,6 +18,8 @@
 
 [Zeppeline github smart contract development patterns and tool - integrate with Truffle](https://github.com/OpenZeppelin/zeppelin-solidity)
 
+[Toshi browser](https://blog.toshi.org/introducing-token-2f2ceeab6d4c)
+
 ## AltCoins and ICO Research and White Papers
 [Smith and Crown ICOS, TOKEN SALES, CROWDSALES](https://www.smithandcrown.com/icos/)
 [2018-2019 themes](https://medium.com/@twobitidiot/95-crypto-theses-for-2018-ca7b74f8abcf)
