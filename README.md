@@ -35,6 +35,7 @@ MONERO
 ZCASH
 [Linda Xie Beginner's guide to ZCash](https://medium.com/@linda.xie/a-beginners-guide-to-zcash-3b37190affc)
 
+## Altcoins
 TEZOS
 [on-chain governance (upgrading the protocol) + POS + Formal Verification](https://medium.com/@linda.xie/a-beginners-guide-to-tezos-c9618240183f)
 
@@ -44,8 +45,10 @@ IOTA
 NEO
 [NEO summaries](https://www.reddit.com/r/nem/comments/77vvqg/an_indepth_guide_to_nem/?st=jby5nj6o&sh=109c8c76)
 
-## Decentralized 
-Exchange 
+Wing
+[Wing Token laurch Medium](https://blog.wings.ai/wing-token-launch-e8c5304b6fba)
+
+## Decentralized Exchange 
 [0X project](https://blog.0xproject.com/a-beginners-guide-to-0x-81d30298a5e0)
 
 
