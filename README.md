@@ -42,8 +42,8 @@ TEZOS
 IOTA
 [A beginner’s guide to IOTA](https://medium.com/@linda.xie/a-beginners-guide-to-iota-a84424ff5536)
 
-NEO
-[NEO summaries](https://www.reddit.com/r/nem/comments/77vvqg/an_indepth_guide_to_nem/?st=jby5nj6o&sh=109c8c76)
+NEM
+[NEM summaries in reddit](https://www.reddit.com/r/nem/comments/77vvqg/an_indepth_guide_to_nem/?st=jby5nj6o&sh=109c8c76)
 
 Wing
 [Wing Token laurch Medium](https://blog.wings.ai/wing-token-launch-e8c5304b6fba)
