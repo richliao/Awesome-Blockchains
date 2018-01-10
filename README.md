@@ -48,6 +48,9 @@ NEM
 Wing
 [Wing Token laurch Medium](https://blog.wings.ai/wing-token-launch-e8c5304b6fba)
 
+Kibo
+[Blockchain Lottery -Kibo](https://medium.com/@kiboproject)
+
 ## Decentralized Exchange 
 [0X project](https://blog.0xproject.com/a-beginners-guide-to-0x-81d30298a5e0)
 
