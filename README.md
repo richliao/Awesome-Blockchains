@@ -5,6 +5,8 @@
 
 [Dan Romero Digital Currencies Reading List](https://medium.com/@dwr/digital-currency-reading-list-6219f1623bfd)
 
+[Bitcoin no hash crash - unique key pairs generated explained](https://www.youtube.com/watch?v=ZloHVKk7DHk&feature=youtu.be)
+
 ## Implementation and Building a DAPP
 [Naive Coin implementation](https://lhartikk.github.io/)
 
