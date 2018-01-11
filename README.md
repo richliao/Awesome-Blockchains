@@ -54,4 +54,9 @@ Kibo
 ## Decentralized Exchange 
 [0X project](https://blog.0xproject.com/a-beginners-guide-to-0x-81d30298a5e0)
 
+## Watch list
+[Scorum](https://icobench.com/ico/scorum)
+[Scorum official site - Github, whitepaper etc](https://scorumcoins.com/en-us/)
+
+
 
