@@ -28,6 +28,8 @@
 
 [Cryto ecosystem](https://news.blackmooncrypto.com/the-crypto-ecosystem-v2-aea76bde5457)
 
+[Participating ICO](https://www.forbes.com/sites/laurashin/2017/07/18/how-to-speculate-in-icos-and-buy-tokens-an-easy-step-by-step-guide/#450d49af743a)
+
 ## Secure, private, untraceable currencies
 MONERO
 [A beginner’s guide to Monero](https://medium.com/@linda.xie/a-beginners-guide-to-monero-7a5df2c50ed9)
