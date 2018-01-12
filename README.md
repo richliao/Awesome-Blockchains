@@ -60,6 +60,9 @@ Wing
 Kibo
 [Blockchain Lottery -Kibo](https://medium.com/@kiboproject)
 
+Liberty 
+[LBRY credit](https://lbry.io/)
+
 ## Decentralized Exchange 
 [0X project](https://blog.0xproject.com/a-beginners-guide-to-0x-81d30298a5e0)
 
