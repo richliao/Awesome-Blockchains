@@ -71,6 +71,8 @@ Steemit
 Golem
 [Golem](https://cointelegraph.com/news/golem-is-10th-most-valuable-crypto)
 
+EOS
+[EOS and Graphene POS bug fix](https://medium.com/chain-cloud-company-blog/is-eos-the-ethereum-killer-ad24277d8c9c)
 
 ## Decentralized Exchange 
 [0X project](https://blog.0xproject.com/a-beginners-guide-to-0x-81d30298a5e0)
