@@ -37,6 +37,8 @@
 
 [Top 70 coins](https://bitcoinexchangeguide.com/inside-look-at-the-top-70-alternative-cryptocurrency-coins-projects/)
 
+[Understand Graphene BlockChain Ecosystem](https://followmyvote.com/understanding-the-graphene-blockchain-ecosystem/)
+
 ## Secure, private, untraceable currencies
 MONERO
 [A beginner’s guide to Monero](https://medium.com/@linda.xie/a-beginners-guide-to-monero-7a5df2c50ed9)
@@ -66,6 +68,10 @@ Liberty
 Steemit
 [Steemit summary](https://bitcoinexchangeguide.com/steemit/)
 
+Golem
+[Golem](https://cointelegraph.com/news/golem-is-10th-most-valuable-crypto)
+
+
 ## Decentralized Exchange 
 [0X project](https://blog.0xproject.com/a-beginners-guide-to-0x-81d30298a5e0)
 
@@ -74,4 +80,9 @@ Steemit
 [Scorum official site - Github, whitepaper etc](https://scorumcoins.com/en-us/)
 
 [WePower](https://medium.com/wepower/10-reasons-why-its-a-good-idea-to-contribute-to-the-wepower-token-sale-c6ac4e0f1564)
+
+[Experty](https://experty.io/en?utm_source=icorating&utm_medium=listing&utm_campaign=icorating)
+
+[Cappacity VR token](https://artoken.io/)
+
 
