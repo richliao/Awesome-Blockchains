@@ -73,5 +73,5 @@ Steemit
 [Scorum](https://icobench.com/ico/scorum)
 [Scorum official site - Github, whitepaper etc](https://scorumcoins.com/en-us/)
 
-
+[WePower](https://medium.com/wepower/10-reasons-why-its-a-good-idea-to-contribute-to-the-wepower-token-sale-c6ac4e0f1564)
 
