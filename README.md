@@ -38,6 +38,8 @@
 [Top 70 coins](https://bitcoinexchangeguide.com/inside-look-at-the-top-70-alternative-cryptocurrency-coins-projects/)
 
 [Understand Graphene BlockChain Ecosystem](https://followmyvote.com/understanding-the-graphene-blockchain-ecosystem/)
+[Bitshare and Graphene](https://steemit.com/bitshares/@steempower/bitshares-primed-for-success-technical-and-fundamental-analysis)
+
 
 ## Secure, private, untraceable currencies
 MONERO
@@ -76,6 +78,10 @@ EOS
 
 ## Decentralized Exchange 
 [0X project](https://blog.0xproject.com/a-beginners-guide-to-0x-81d30298a5e0)
+
+## Decentralized AI
+[OpenMined](https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU/edit#slide=id.g2c43a7a0eb_6_1286)
+
 
 ## Watch list
 [Scorum](https://icobench.com/ico/scorum)
