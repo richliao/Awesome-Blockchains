@@ -12,6 +12,8 @@
 
 [Full Stack Hello World Voting Ethereum Dapp Tutorial — Part 1](https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2)
 
+[Ethereum Development Guide series - example of app signing a file](https://medium.com/@sbeyer_31150/ethereum-development-guide-part-1-ad0c77c3683f)
+
 [DAPPS FOR BEGINNERS Ethereum contract tutorials](https://dappsforbeginners.wordpress.com/tutorials/introduction-to-development-on-ethereum/)
 
 [Ethereum wiki- Ehtereum development tutorial](https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial)
