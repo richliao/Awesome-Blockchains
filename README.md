@@ -7,6 +7,8 @@
 
 [Bitcoin no hash crash - unique key pairs generated explained](https://www.youtube.com/watch?v=ZloHVKk7DHk&feature=youtu.be)
 
+[Priceton University Crptyo course series - Coursera](https://www.reddit.com/r/CryptoCurrency/comments/7qynnf/dont_panic_just_learn_sixty_free_lectures_from/?st=jcjdibiz&sh=f48d2f89)
+
 ## Implementation and Building a DAPP
 [Naive Coin implementation](https://lhartikk.github.io/)
 
