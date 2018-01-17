@@ -26,6 +26,8 @@
 
 [Toshi browser](https://blog.toshi.org/introducing-token-2f2ceeab6d4c)
 
+[Toshi Competitor Status](https://status.im/)
+
 [Cryto Kittie review and source code](https://medium.com/loom-network/your-crypto-kitty-isnt-forever-why-dapps-aren-t-as-decentralized-as-you-think-871d6acfea)
 
 
