@@ -34,6 +34,8 @@
 
 [End to End Ethereum DAPP develop and deployment tutorial - betting app](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
 
+[DevCon reports day1 - day4](https://davidburela.wordpress.com/2017/11/02/devcon-3-report-day-1-core-systems/)
+
 ## AltCoins and ICO Research and White Papers
 [Smith and Crown ICOS, TOKEN SALES, CROWDSALES](https://www.smithandcrown.com/icos/)
 [2018-2019 themes](https://medium.com/@twobitidiot/95-crypto-theses-for-2018-ca7b74f8abcf)
