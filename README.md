@@ -49,6 +49,7 @@
 [Understand Graphene BlockChain Ecosystem](https://followmyvote.com/understanding-the-graphene-blockchain-ecosystem/)
 [Bitshare and Graphene](https://steemit.com/bitshares/@steempower/bitshares-primed-for-success-technical-and-fundamental-analysis)
 
+[Blockonomi](https://blockonomi.com/)
 
 ## Secure, private, untraceable currencies
 MONERO
