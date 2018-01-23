@@ -36,6 +36,8 @@
 
 [DevCon reports day1 - day4](https://davidburela.wordpress.com/2017/11/02/devcon-3-report-day-1-core-systems/)
 
+[Calculating Ethereum gas price](https://hackernoon.com/ether-purchase-power-df40a38c5a2f)
+
 ## AltCoins and ICO Research and White Papers
 [Smith and Crown ICOS, TOKEN SALES, CROWDSALES](https://www.smithandcrown.com/icos/)
 [2018-2019 themes](https://medium.com/@twobitidiot/95-crypto-theses-for-2018-ca7b74f8abcf)
@@ -50,6 +52,9 @@
 [Bitshare and Graphene](https://steemit.com/bitshares/@steempower/bitshares-primed-for-success-technical-and-fundamental-analysis)
 
 [Blockonomi](https://blockonomi.com/)
+
+[summary of top 100 coins](https://www.upfolio.com/100-coins-explained)
+
 
 ## Secure, private, untraceable currencies
 MONERO
