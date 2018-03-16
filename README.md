@@ -98,14 +98,6 @@ EOS
 [OpenMined](https://docs.google.com/presentation/d/1RI6BnBsJtTBg3djZbD1hDjuhQagPBAUtAqcqoYWQTxU/edit#slide=id.g2c43a7a0eb_6_1286)
 
 
-## Watch list
-[Scorum](https://icobench.com/ico/scorum)
-[Scorum official site - Github, whitepaper etc](https://scorumcoins.com/en-us/)
 
-[WePower](https://medium.com/wepower/10-reasons-why-its-a-good-idea-to-contribute-to-the-wepower-token-sale-c6ac4e0f1564)
-
-[Experty](https://experty.io/en?utm_source=icorating&utm_medium=listing&utm_campaign=icorating)
-
-[Cappacity VR token](https://artoken.io/)
 
 
